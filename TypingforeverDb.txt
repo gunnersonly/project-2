@@ -1,0 +1,3 @@
+admin Admin 1234 Boss
+lizard User 12345 natnael
+admin User 0 girma
